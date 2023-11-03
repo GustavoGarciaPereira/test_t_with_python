@@ -6,8 +6,6 @@ Este projeto oferece implementações em Python para realizar testes t de Studen
 
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
 
 ## Instalação
 
@@ -16,8 +14,10 @@ Este projeto não requer instalação, basta baixar o arquivo `main.py` do repos
 ```bash
 # Clone o repositório
 git clone https://github.com/GustavoGarciaPereira/test_t_with_python.git
+```
 
 
+## uso
 ```bash
 # Importe o script
 import testes_t
