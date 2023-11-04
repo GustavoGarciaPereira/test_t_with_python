@@ -33,3 +33,5 @@ print(t_independente)
 
 
 
+- [ ] estudar como calcular o p-valor
+- [ ] estudar efeito
